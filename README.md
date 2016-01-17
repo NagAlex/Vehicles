@@ -1,2 +1,2 @@
 # Vehicles
-Simple Java classes
+Object oriented programming: using Simple Java classes
